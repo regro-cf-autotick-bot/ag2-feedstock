@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.13.4"
+  version: "1.2.1"
 
 package:
   name: ag2
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/ag2/ag2-${{ version }}.tar.gz
-  sha256: df5a7ddbcba32f01023cf742bfc93fadc1997cc6dee30d5e86e7d0b732254477
+  sha256: bae4947a00f6676c3108bfa4e81d6a0afbaf7354acdc7e1bad7c67e1163c8f08
 
 build:
   number: 0
